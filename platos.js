@@ -34,6 +34,13 @@ const platos = [
     id: 30,
     imagen: "principal.jpg",
   },
+  {
+    nombre: "Pizza",
+    descripcion: "Napo muy rica",
+    precio: 100,
+    id: 31,
+    imagen: "principal.jpg",
+  },
 ];
 
 module.exports = platos;

@@ -3,7 +3,7 @@ const app = express();
 
 const path = require("path");
 
-const PORT = 3000;
+const PORT = 3030;
 
 app.listen(PORT,()=> {
     console.log ("este servidor esta corriendo");
